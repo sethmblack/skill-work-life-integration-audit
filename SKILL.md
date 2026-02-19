@@ -4,7 +4,7 @@ description: Honestly assess work-life trade-offs and build sustainable support 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5329
+  version: 1.0.5330
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - work-life-integration-audit
